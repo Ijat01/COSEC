@@ -26,6 +26,7 @@ export function SearchBar(){
             </div>
             <div className="flex items-center  px-2">
                 <Button className="h-12 w-24 rounded-full bg-blue-900"> Search </Button>
+                
             </div>
         </div>
     )
